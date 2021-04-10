@@ -14,7 +14,7 @@ namespace SalesWebMvc.Models
             {
             get; set;
             }
-        public string email
+        public string Email
             {
             get; set;
             }
@@ -22,7 +22,7 @@ namespace SalesWebMvc.Models
             {
             get; set;
             }
-        public double baseSalary
+        public double BaseSalary
             {
             get; set;
             }
@@ -42,9 +42,9 @@ namespace SalesWebMvc.Models
             {
             Id = id;
             Name = name;
-            this.email = email;
+            this.Email = email;
             BirthDate = birthDate;
-            this.baseSalary = baseSalary;
+            this.BaseSalary = baseSalary;
             Department = department;
             }
         public void AddSales(SalesRecord sr)

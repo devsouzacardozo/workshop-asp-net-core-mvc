@@ -73,3 +73,4 @@ C:\Users\ValeAzul\Desktop\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcor
 C:\Users\ValeAzul\Desktop\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\ValeAzul\Desktop\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\ValeAzul\Desktop\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\ValeAzul\Desktop\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
